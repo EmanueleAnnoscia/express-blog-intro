@@ -1,0 +1,23 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanueleAnnoscia/express-blog-intro.git"
+  },
+  "author": "Emanuele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmanueleAnnoscia/express-blog-intro/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/EmanueleAnnoscia/express-blog-intro#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

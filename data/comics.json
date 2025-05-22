@@ -1,0 +1,62 @@
+[
+  {
+    "titolo": "Le origini di Capitan Fulmine",
+    "contenuto": "Scopri come un normale ragazzo è diventato il più potente supereroe della città grazie a un fulmine e a un misterioso amuleto.",
+    "immagine": "https://example.com/images/capitan-fulmine.jpg",
+    "tags": [
+      "supereroi",
+      "origini",
+      "avventura",
+      "fumetti",
+      "azione"
+    ]
+  },
+  {
+    "titolo": "I Villain più iconici del mondo Marvel",
+    "contenuto": "Un viaggio tra i nemici più temibili degli eroi Marvel, da Magneto a Thanos, analizzando le loro motivazioni e poteri.",
+    "immagine": "https://example.com/images/villain-marvel.jpg",
+    "tags": [
+      "Marvel",
+      "villain",
+      "fumetti",
+      "supereroi",
+      "antagonisti"
+    ]
+  },
+  {
+    "titolo": "Il Rinascimento del Fumetto Italiano",
+    "contenuto": "Come artisti italiani stanno riportando in auge il fumetto nazionale con storie innovative e disegni spettacolari.",
+    "immagine": "https://example.com/images/fumetto-italiano.jpg",
+    "tags": [
+      "Italia",
+      "fumetti",
+      "arte",
+      "storie",
+      "innovazione"
+    ]
+  },
+  {
+    "titolo": "Graphic Novel da non perdere nel 2025",
+    "contenuto": "Una selezione delle migliori graphic novel in uscita quest'anno, tra fantasy, dramma e thriller psicologici.",
+    "immagine": "https://example.com/images/graphic-novel-2025.jpg",
+    "tags": [
+      "graphic novel",
+      "2025",
+      "novità",
+      "fumetti",
+      "letture"
+    ]
+  },
+  {
+    "titolo": "Tecniche di disegno per fumettisti alle prime armi",
+    "contenuto": "Consigli pratici e esercizi per migliorare il tratto e la narrazione visiva nei tuoi fumetti.",
+    "immagine": "https://example.com/images/tecniche-disegno.jpg",
+    "tags": [
+      "disegno",
+      "fumetti",
+      "tutorial",
+      "tecniche",
+      "formazione"
+    ]
+  }
+]

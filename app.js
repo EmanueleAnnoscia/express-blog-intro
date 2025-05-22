@@ -8,7 +8,7 @@ import fs from "fs";
 const app = express();
 
 // qui creao la porta del localhost
-const port = 3000;
+const port = 3001;
 
 // servve per far si che vengano prelevati gli elementi della cartella public senza che debba ogni volta inserire la rotta statica per ognuno di essi
 app.use(express.static("public"))

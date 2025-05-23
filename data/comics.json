@@ -2,7 +2,7 @@
   {
     "titolo": "Le origini di Capitan Fulmine",
     "contenuto": "Scopri come un normale ragazzo è diventato il più potente supereroe della città grazie a un fulmine e a un misterioso amuleto.",
-    "immagine": "https://example.com/images/capitan-fulmine.jpg",
+    "immagine": "img/1.jpg",
     "tags": [
       "supereroi",
       "origini",
@@ -14,7 +14,7 @@
   {
     "titolo": "I Villain più iconici del mondo Marvel",
     "contenuto": "Un viaggio tra i nemici più temibili degli eroi Marvel, da Magneto a Thanos, analizzando le loro motivazioni e poteri.",
-    "immagine": "https://example.com/images/villain-marvel.jpg",
+    "immagine": "img/1.jpg",
     "tags": [
       "Marvel",
       "villain",
@@ -26,7 +26,7 @@
   {
     "titolo": "Il Rinascimento del Fumetto Italiano",
     "contenuto": "Come artisti italiani stanno riportando in auge il fumetto nazionale con storie innovative e disegni spettacolari.",
-    "immagine": "https://example.com/images/fumetto-italiano.jpg",
+    "immagine": "img/1.jpg",
     "tags": [
       "Italia",
       "fumetti",
@@ -38,7 +38,7 @@
   {
     "titolo": "Graphic Novel da non perdere nel 2025",
     "contenuto": "Una selezione delle migliori graphic novel in uscita quest'anno, tra fantasy, dramma e thriller psicologici.",
-    "immagine": "https://example.com/images/graphic-novel-2025.jpg",
+    "immagine": "img/1.jpg",
     "tags": [
       "graphic novel",
       "2025",

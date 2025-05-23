@@ -25,12 +25,21 @@ app.get("/", (req, res)=>{
     res.json(resData)
 })
 
+// bacheca
+// app.get("/bacheca", (req, res)=>{
+//     res.json({
+//         posts: "qui ci sarà array di post",
+//         count: "qui ci sarà il numero di post"
+//     })
+// })
+
 // api dei comics
-app.get("/comicslist", (req, res)=>{
+app.get("/comicslist", (req, res)=>{  //il mio comicslist è la bacheca dell'esercizio
     const dataJson = fs.readFileSync("./data/comics.json")
     const comicsList = JSON.parse(dataJson)
     const resData ={
         data: comicsList,
+        count: comicsList.length,
         success: true
     }
     res.json(resData)
